@@ -2,17 +2,17 @@
   "posts": [
     {
       "id": 1,
-      "title": "photo",
+      "title": "ears of corn",
       "img": "https://images.unsplash.com/photo-1712093828214-0b74bf899528?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 2,
-      "title": "aaaa",
+      "title": "dandelion",
       "img": "https://images.unsplash.com/photo-1712093828180-01f8e36aec65?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 3,
-      "title": "bbbb",
+      "title": "daises",
       "img": "https://images.unsplash.com/photo-1712093828787-67e26cecab91?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ]
